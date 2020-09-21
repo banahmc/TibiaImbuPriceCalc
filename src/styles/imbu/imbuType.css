@@ -1,0 +1,7 @@
+div.imbu-type-card {
+    margin: 6px 3px !important;
+}
+
+div.imbu-type-card > div.card-header > span {
+    margin-left: -28px !important;
+}

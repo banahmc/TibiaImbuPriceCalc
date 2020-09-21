@@ -1,0 +1,68 @@
+[
+    {
+        "type": 1,
+        "items": [
+            {
+                "Rope Belt": 25,
+                "Silencer Claws": 25,
+                "Some Grimeleech Wings": 5
+            },
+            {
+                "Gold Token": 2,
+                "Silencer Claws": 25,
+                "Some Grimeleech Wings": 5
+            },
+            {
+                "Gold Token": 4,
+                "Some Grimeleech Wings": 5
+            },
+            {
+                "Gold Token": 6
+            }
+        ]
+    },
+    {
+        "type": 2,
+        "items": [
+            {
+                "Protective Charm": 20,
+                "Sabretooth": 25,
+                "Vexclaw Talon": 5
+            },
+            {
+                "Gold Token": 2,
+                "Sabretooth": 25,
+                "Vexclaw Talon": 5
+            },
+            {
+                "Gold Token": 4,
+                "Vexclaw Talon": 5
+            },
+            {
+                "Gold Token": 6
+            }
+        ]
+    },
+    {
+        "type": 3,
+        "items": [
+            {
+                "Vampire Teeth": 25,
+                "Bloody Pincers": 15,
+                "Piece of Dead Brain": 5
+            },
+            {
+                "Gold Token": 2,
+                "Bloody Pincers": 15,
+                "Piece of Dead Brain": 5
+            },
+            {
+                "Gold Token": 4,
+                "Piece of Dead Brain": 5
+            },
+            {
+                "Gold Token": 6
+            }
+        ]
+    }
+]
